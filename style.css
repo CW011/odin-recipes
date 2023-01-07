@@ -1,0 +1,19 @@
+.header {
+    font-family: 'Times New Roman', serif;
+    text-align:center;
+    color:orange;
+    background-color:orangered;
+    font-size:36px;
+}
+
+.header .recipes{
+    text-align:left;
+    color:black;
+    font-size:18px;
+    background-color:white;
+
+}
+
+
+
+
