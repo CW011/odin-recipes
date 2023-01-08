@@ -1,18 +1,46 @@
-.header {
-    font-family: 'Times New Roman', serif;
-    text-align:center;
-    color:orange;
-    background-color:orangered;
-    font-size:36px;
-}
-
-.header .recipes{
+.header #recipes{
     text-align:left;
     color:black;
     font-size:18px;
     background-color:white;
-
+    border:4px solid palevioletred;
+    margin-bottom:20px;
+    padding:20px;
 }
+
+
+.header {
+    font-family: 'Times New Roman', serif;
+    text-align:center;
+    color:orange;
+    font-size:36px;
+    background-color:purple;
+}
+
+.images {
+    margin-left:auto;
+    margin-right:auto;
+    width: 50%;
+    display:block;
+}
+
+.buttons{
+    border:4px solid purple;
+    margin-left:auto;
+    margin-right:auto;
+    width:auto;
+    display:block;
+}
+
+.ingredients{
+    border:4px solid palevioletred;
+    padding:20px;
+    margin:10px;
+    width:auto;
+    height:auto;
+}
+
+
 
 
 
